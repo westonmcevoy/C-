@@ -1,0 +1,27 @@
+[submodule "assignment-2-westonmcevoy"]
+	path = assignment-2-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-2-westonmcevoy.git
+[submodule "assignment-3-westonmcevoy"]
+	path = assignment-3-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-3-westonmcevoy.git
+[submodule "assignment-4-westonmcevoy"]
+	path = assignment-4-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-4-westonmcevoy.git
+[submodule "assignment-5-westonmcevoy"]
+	path = assignment-5-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-5-westonmcevoy.git
+[submodule "assignment-6-westonmcevoy"]
+	path = assignment-6-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-6-westonmcevoy.git
+[submodule "assignment-7-westonmcevoy"]
+	path = assignment-7-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-7-westonmcevoy.git
+[submodule "assignment-8-westonmcevoy"]
+	path = assignment-8-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/assignment-8-westonmcevoy.git
+[submodule "practice-midterm1-westonmcevoy"]
+	path = practice-midterm1-westonmcevoy
+	url = https://github.com/cu-csci-2270-spring-2022/practice-midterm1-westonmcevoy.git
+[submodule "project-csci-2270-solo-final-project"]
+	path = project-csci-2270-solo-final-project
+	url = https://github.com/cu-csci-2270-spring-2022/project-csci-2270-solo-final-project.git
